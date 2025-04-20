@@ -12,7 +12,14 @@ I am Ramavath Jagadeesh, an MBA student specializing in Operations and Business 
   - Successfully completed a six-month internship, recognized for dedication and analytical prowess.
   - Worked on a logistics optimization project, analysing trip performance and identifying a 97.84% delay frequency, which led to a potential 15% improvement in route efficiency through data-driven insights.
   - Utilized Excel, Power BI, and Tableau for data pre-processing and visualization, achieving a 20% reduction in processing time for large datasets.
-  - Developed the following dashboards: Route Type Performance Analysis, Cost and Resource Utilization, Trip Timing and Distance Analysis, Delivery Performance Dashboard, Trip Efficiency Dashboard, Delivery Efficiency and Route Optimization, and Delivery Efficiency by Region. 
+  - Developed the following dashboards: 
+Route Type Performance Analysis, 
+Cost and Resource Utilization, 
+Trip Timing and Distance Analysis, 
+Delivery Performance Dashboard, 
+Trip Efficiency Dashboard, 
+Delivery Efficiency and Route Optimization, and 
+Delivery Efficiency by Region. 
 
 - **Key Project: Enhancing Logistics Efficiency**
 
