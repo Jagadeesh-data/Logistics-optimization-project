@@ -1,4 +1,4 @@
-# Logistics-optimization-project
+# Enhancing Logistics Efficiency for Delhivery 
 Welcome to my GitHub portfolio! This repository showcases my professional journey and analytical skills developed during my academic and internship experiences, with a focus on operations analytics and business intelligence.
 
 ## About Me
