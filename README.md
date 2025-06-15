@@ -7,7 +7,8 @@ I am Ramavath Jagadeesh, an MBA student specializing in Operations and Business 
 
 ## Internship and Projects
 
-- **Internship at Technocolabs Softwares (Sept 2024 - Feb 2025)**
+- **Internship at Technocolabs Softwares (Sept 2024 - Feb 2025)*
+![image](https://github.com/user-attachments/assets/28ec611a-73b9-45f0-b799-c1f9189561bf)
 
   - Successfully completed a six-month internship, recognized for dedication and analytical prowess.
   - Worked on a logistics optimization project, analysing trip performance and identifying a 97.84% delay frequency, which led to a potential 15% improvement in route efficiency through data-driven insights.
