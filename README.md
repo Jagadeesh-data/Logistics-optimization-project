@@ -10,9 +10,19 @@ I am Ramavath Jagadeesh, an MBA student specializing in Operations and Business 
 - **Internship at Technocolabs Softwares (Sept 2024 - Feb 2025)*
 ![image](https://github.com/user-attachments/assets/28ec611a-73b9-45f0-b799-c1f9189561bf)
 
-  - Successfully completed a six-month internship, recognized for dedication and analytical prowess.
-  - Worked on a logistics optimization project, analysing trip performance and identifying a 97.84% delay frequency, which led to a potential 15% improvement in route efficiency through data-driven insights.
-  - Utilized Excel, Power BI, and Tableau for data pre-processing and visualization, achieving a 20% reduction in processing time for large datasets.
+
+Goal: Analyzed delivery data to improve route optimization, trip efficiency, and delivery performance for Delhivery, a leading Indian logistics company.
+  
+Objectives:
+    - Cleaned and preprocessed logistics data using Python and SQL
+    - Analyzed trip efficiency and delivery times
+    - Evaluated delivery route efficiency and suggested improvements
+    - Tracked key delivery performance metrics (on-time rate, delays, average delivery time)
+- Tools Used: Python, SQL, and Power BI for data analysis, visualization, and dashboard creation
+- Project Details: This project is licensed under the MIT License, so while I can't share the dashboard, I can explain the work I did using Python, SQL, and Power BI to drive insights and improvements.
+- Key Features:
+    - Developed data visualizations and interactive dashboards to provide insights into delivery performance and operational efficiency
+
   - **Developed the following dashboards**: 
   - Route Type Performance Analysis, 
   - Cost and Resource Utilization, 
@@ -44,14 +54,10 @@ I am Ramavath Jagadeesh, an MBA student specializing in Operations and Business 
 
 ## Skills
 
-- **Technical Skills**: Excel, Power BI, SQL 
+- **Technical Skills**:Python, Excel, Power BI, SQL 
 - **Analytical Skills**: Data pre-processing, trend identification, dashboard creation
 - **Domain**: Supply Chain Analytics, Business Intelligence
 
 ## Contact
 
 For professional inquiries, to discuss project details, or to request access to the Google Drive link for the 30-second dashboard screen recording, feel free to reach out via email or connect with me on LinkedIn. Recruiters can request further information, and I’m happy to provide insights within confidentiality limits.
-
----
-
-*Note: This portfolio respects confidentiality by not sharing sensitive project data or screenshots. Analytical insights are derived from my work and are approximate, based on trends observed. Included a 30-second screen recording of the dashboards (providing an overall idea without full analysis) available via Google Drive :https://drive.google.com/file/d/1YovbAxsVl547K5YzGntF0TFWkMbd-Ovr/view?usp=sharing*
